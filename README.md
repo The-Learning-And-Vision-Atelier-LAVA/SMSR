@@ -18,6 +18,11 @@ Reposity for "Learning Sparse Masks for Efficient Image Super-Resolution"
 <img width="650" src="https://github.com/LongguangWang/SMSR/blob/master/Figs/sparse conv.png"/></div>
 
 
+## Implementation of Sparse Convolution
+For easier migration and deployment, we use an efficient implementation of sparse convolution based on original Pytorch APIs rather than the commonly applied CUDA-based implementation. Specifically, sparse features are first extracted from the input, as shown in the following figure. Then, matrix multiplication is executed to produce the output features.
+
+<img width="850" src="https://github.com/LongguangWang/SMSR/blob/master/Figs/implementation.png"/></div>
+
 ## Results
 
 <img width="650" src="https://github.com/LongguangWang/SMSR/blob/master/Figs/results.png"/></div>
