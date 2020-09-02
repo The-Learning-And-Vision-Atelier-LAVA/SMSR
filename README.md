@@ -7,7 +7,7 @@ Reposity for "Learning Sparse Masks for Efficient Super-Resolution"
 - Maintain state-of-the-art performance with significant FLOPs reduction and a speedup on mobile devices.
 - Efficient implementation of sparse convolution based on **original Pytorch APIs** for easier migration and deployment.
 
-Codes will be released soon. Stay tuned.
+Code will be released soon. Stay tuned.
 
 
 ## Network Architecture
