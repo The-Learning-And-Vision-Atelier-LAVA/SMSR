@@ -8,3 +8,13 @@ Reposity for "Learning Sparse Masks for Efficient Super-Resolution"
 - Efficient implementation of sparse convolution based on **original Pytorch APIs** for easier migration and deployment.
 
 Codes will be released soon. Stay tuned.
+
+## Citation
+```
+@Article{Wang2020Learninga,
+  author  = {Wang, Longguang and Dong, Xiaoyu and Wang, Yingqian and Ying, Xinyi and Lin, Zaiping and An, Wei and Guo, Yulan},
+  title   = {Learning Sparse Masks for Efficient Image Super-Resolution},
+  journal = {arXiv},
+  year    = {2020},
+}
+```
