@@ -9,20 +9,20 @@ Reposity for "Learning Sparse Masks for Efficient Super-Resolution"
 
 ## Network Architecture
 
-<img width="550" src="https://github.com/LongguangWang/PAM/blob/master/Figs/overview.png"/></div>
+<img width="550" src="https://github.com/LongguangWang/SMSR/blob/master/Figs/overview.png"/></div>
 
 
-<img width="550" src="https://github.com/LongguangWang/PAM/blob/master/Figs/sparse conv.png"/></div>
+<img width="550" src="https://github.com/LongguangWang/SMSR/blob/master/Figs/sparse conv.png"/></div>
 
 
 ## Results
 
-<img width="550" src="https://github.com/LongguangWang/PAM/blob/master/Figs/results.png"/></div>
+<img width="550" src="https://github.com/LongguangWang/SMSR/blob/master/Figs/results.png"/></div>
 
 
 ## Visualization of Sparse Masks
 
-<img width="550" src="https://github.com/LongguangWang/PAM/blob/master/Figs/visualization.png"/></div>
+<img width="550" src="https://github.com/LongguangWang/SMSR/blob/master/Figs/visualization.png"/></div>
 
 Codes will be released soon. Stay tuned.
 
