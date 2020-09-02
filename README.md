@@ -30,7 +30,7 @@ Reposity for "Learning Sparse Masks for Efficient Image Super-Resolution"
 
 ## Citation
 ```
-@Article{Wang2020Learninga,
+@Article{Wang2020Learning,
   author  = {Wang, Longguang and Dong, Xiaoyu and Wang, Yingqian and Ying, Xinyi and Lin, Zaiping and An, Wei and Guo, Yulan},
   title   = {Learning Sparse Masks for Efficient Image Super-Resolution},
   journal = {arXiv},
