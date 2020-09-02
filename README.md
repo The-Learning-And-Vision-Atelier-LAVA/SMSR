@@ -7,20 +7,22 @@ Reposity for "Learning Sparse Masks for Efficient Super-Resolution"
 - Maintain state-of-the-art performance with significant FLOPs reduction and a speedup on mobile devices.
 - Efficient implementation of sparse convolution based on **original Pytorch APIs** for easier migration and deployment.
 
-## Overview
+## Network Architecture
 
 <img width="550" src="https://github.com/LongguangWang/PAM/blob/master/Figs/overview.png"/></div>
 
 
-## Overview
-
-<img width="550" src="https://github.com/LongguangWang/PAM/blob/master/Figs/overview.png"/></div>
+<img width="550" src="https://github.com/LongguangWang/PAM/blob/master/Figs/sparse conv.png"/></div>
 
 
-## Overview
+## Results
 
-<img width="550" src="https://github.com/LongguangWang/PAM/blob/master/Figs/overview.png"/></div>
+<img width="550" src="https://github.com/LongguangWang/PAM/blob/master/Figs/results.png"/></div>
 
+
+## Visualization of Sparse Masks
+
+<img width="550" src="https://github.com/LongguangWang/PAM/blob/master/Figs/visualization.png"/></div>
 
 Codes will be released soon. Stay tuned.
 
