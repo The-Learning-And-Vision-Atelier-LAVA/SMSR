@@ -5,7 +5,7 @@ Reposity for "Learning Sparse Masks for Efficient Image Super-Resolution"
 
 - Locate and skip redundant computation in SR networks at a fine-grained level for efficient inference.
 - Maintain state-of-the-art performance with significant FLOPs reduction and a speedup on mobile devices.
-- Efficient implementation of sparse convolution based on **original Pytorch APIs** for easier migration and deployment.
+- Efficient implementation of sparse convolution based on ***original Pytorch APIs*** for easier migration and deployment.
 
 **Code will be released soon. Stay tuned.**
 
