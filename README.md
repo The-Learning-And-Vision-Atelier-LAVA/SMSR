@@ -51,7 +51,7 @@ python main.py --model SMSR --save SMSR_X2 --scale 2 --patch_size 96 --batch_siz
 
 ## Test
 ### Prepare test data 
-Download [benchmark datasets](https://github.com/xinntao/BasicSR/blob/a19aac61b277f64be050cef7fe578a121d944a0e/docs/Datasets.md) (e.g., Set5, Set14 and other test sets) and prepare HR/LR images in `testset/benchmark` following the example of `testset/benchmark/Set5`.
+Download [benchmark datasets](https://github.com/xinntao/BasicSR/blob/a19aac61b277f64be050cef7fe578a121d944a0e/docs/Datasets.md) (e.g., Set5, Set14 and other test sets) and prepare HR/LR images in `testsets/benchmark` following the example of `testsets/benchmark/Set5`.
 
 
 ### Demo
