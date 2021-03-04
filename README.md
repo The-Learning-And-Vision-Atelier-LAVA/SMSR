@@ -73,11 +73,11 @@ python main.py --dir_data testsets --data_test Set5 --scale 2 --model SMSR --sav
 
 ## Citation
 ```
-@Article{Wang2020Learning,
-  author  = {Wang, Longguang and Dong, Xiaoyu and Wang, Yingqian and Ying, Xinyi and Lin, Zaiping and An, Wei and Guo, Yulan},
-  title   = {Learning Sparse Masks for Efficient Image Super-Resolution},
-  journal = {arXiv},
-  year    = {2020},
+@InProceedings{Wang2020Exploring,
+  author    = {Wang, Longguang and Dong, Xiaoyu and Wang, Yingqian and Ying, Xinyi and Lin, Zaiping and An, Wei and Guo, Yulan},
+  title     = {Exploring Sparsity in Image Super-Resolution for Efficient Inference},
+  booktitle = {CVPR},
+  year      = {2021},
 }
 ```
 
