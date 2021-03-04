@@ -1,5 +1,5 @@
 # SMSR
-Reposity for "Learning Sparse Masks for Efficient Image Super-Resolution"
+Reposity for "Exploring Sparsity in Image Super-Resolution for Efficient Inference"
 
 [[arXiv]](https://arxiv.org/abs/2006.09603)
 
