@@ -18,7 +18,7 @@ Pytorch implementation of "Learning Sparse Masks for Efficient Image Super-Resol
 <p align="center"> <img src="Figs/overview.png" width="70%"> </p>
 
 
-<p align="center"> <img src="Figs/sparse conv.png" width="70%"> </p>
+<p align="center"> <img src="Figs/sparse conv.png" width="75%"> </p>
 
 
 ## Implementation of Sparse Convolution
@@ -73,9 +73,9 @@ python main.py --dir_data testsets --data_test Set5 --scale 2 --model SMSR --sav
 
 ## Visualization of Sparse Masks
 
-<p align="center"> <img src="Figs/visualization.png" width="40%"> </p>
+<p align="center"> <img src="Figs/visualization.png" width="37%"> </p>
 
-<p align="center"> <img src="Figs/visualization2.png" width="80%"> </p>
+<p align="center"> <img src="Figs/visualization2.png" width="90%"> </p>
 
 
 
