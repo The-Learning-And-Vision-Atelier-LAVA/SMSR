@@ -1,5 +1,5 @@
 # SMSR
-Pytorch implementation of "Learning Sparse Masks for Efficient Image Super-Resolution", CVPR 2021
+Pytorch implementation of "Exploring Sparsity in Image Super-Resolution for Efficient Inference", CVPR 2021
 
 [[arXiv]](https://arxiv.org/pdf/2006.09603)
 
