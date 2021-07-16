@@ -1,7 +1,7 @@
 # SMSR
 Pytorch implementation of "Exploring Sparsity in Image Super-Resolution for Efficient Inference", CVPR 2021
 
-[[arXiv]](https://arxiv.org/pdf/2006.09603)
+[[arXiv]](https://arxiv.org/pdf/2006.09603) [[CVF]](https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_Exploring_Sparsity_in_Image_Super-Resolution_for_Efficient_Inference_CVPR_2021_paper.pdf) [[Supp]](https://openaccess.thecvf.com/content/CVPR2021/supplemental/Wang_Exploring_Sparsity_in_CVPR_2021_supplemental.pdf)
 
 
 ## Highlights
