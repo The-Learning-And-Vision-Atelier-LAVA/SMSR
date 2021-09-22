@@ -31,7 +31,7 @@ class Trainer():
         epoch = self.scheduler.last_epoch + 1
 
         # lr schedule
-        lr = 2e-4 * (2 ** -((epoch) // 200))
+        lr = self.args.lr * (2 ** -(epoch // 200))
         for param_group in self.optimizer.param_groups:
             param_group['lr'] = lr
 
