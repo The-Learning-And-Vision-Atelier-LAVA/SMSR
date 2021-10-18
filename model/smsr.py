@@ -250,8 +250,8 @@ class SMB(nn.Module):
                     fea = self.body[i](fea)
                     fea = fea * ch_mask[:, :, i:i + 1, 1:] * spa_mask + fea * ch_mask[:, :, i:i + 1, :1]
                 else:
-                    fea_d = self.body[i](fea * ch_mask[:, :, i:i + 1, :1])
-                    fea_s = self.body[i](fea * ch_mask[:, :, i:i + 1, 1:])
+                    fea_d = self.body[i](fea * ch_mask[:, :, i - 1:i, :1])
+                    fea_s = self.body[i](fea * ch_mask[:, :, i - 1:i, 1:])
                     fea = fea_d * ch_mask[:, :, i:i + 1, 1:] * spa_mask + fea_d * ch_mask[:, :, i:i + 1, :1] + \
                           fea_s * ch_mask[:, :, i:i + 1, 1:] * spa_mask + fea_s * ch_mask[:, :, i:i + 1, :1] * spa_mask
                 fea = self.relu(fea)
